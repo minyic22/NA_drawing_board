@@ -1,0 +1,3 @@
+cd drawing_board
+yarn 
+yarn dev
